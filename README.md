@@ -2,7 +2,7 @@
 Este repositorio contiene todos los recursos para estudiantes necesarios para el What The Hack de Fundamentos de OpenAI.
 
 Los estudiantes deben seguir las instrucciones en la guía para estudiantes de este reto aquí:
-- [Guía para Estudiantes de Fundamentos de OpenAI What The Hack]https://whatthehack-cf.github.io/WhatTheHack_retos/066-OpenAIFundamentals/)
+- [Guía para Estudiantes de Fundamentos de OpenAI What The Hack](https://whatthehack-cf.github.io/WhatTheHack_retos/066-OpenAIFundamentals/)
 
 Los contenidos de este repositorio se enumeran a continuación:
 
