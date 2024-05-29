@@ -1,30 +1,30 @@
-# What The Hack - OpenAI Fundamentals - Student Resources
-This folder/repo contains all the student resources needed for the OpenAI Fundamentals What The Hack.
+# What The Hack - Fundamentos de OpenAI - Recursos para Estudiantes
+Este repositorio contiene todos los recursos para estudiantes necesarios para el What The Hack de Fundamentos de OpenAI.
 
-Students should follow the instructions in the student guide for this hack here:
-- [WTH OpenAI Fundamentals Student Guide](https://aka.ms/wth/openaifundamentals)
+Los estudiantes deben seguir las instrucciones en la guía para estudiantes de este reto aquí:
+- [Guía para Estudiantes de Fundamentos de OpenAI What The Hack]https://whatthehack-cf.github.io/WhatTheHack_retos/066-OpenAIFundamentals/)
 
-The contents of this folder/repo are listed below:
+Los contenidos de este repositorio se enumeran a continuación:
 
 ## `/.devcontainer`
-This folder contains the configuration for these resources to be hosted in a GitHub Codespace.
+Esta carpeta contiene la configuración para que estos recursos se alojen en un GitHub Codespace.
 
 ## `/data`
-This folder contains the structured and unstructured data that will be used to complete the challenges of this hack
+Esta carpeta contiene los datos estructurados y no estructurados que se utilizarán para completar los desafíos de este reto.
 
 ## `/notebooks`
-This folder contains the Jupyter Notebooks you will run to complete the tasks of this hack. You must have a Jupyter Notebook runtime environment to run these files. GitHub Codespaces is the easiest way to get started.  Instructions on how to set up a Jupyter Notebook runtime environment on your local workstation are also provided if you do not want to use GitHub Codespaces.
+Esta carpeta contiene los Jupyter Notebooks que ejecutarás para completar las tareas de este reto.
 
-See [Challenge 00](https://microsoft.github.io/WhatTheHack/066-OpenAIFundamentals/Student/Challenge-00.html) of the student guide for this hack for more details.
+Consulta el [Desafío 00](https://whatthehack-cf.github.io/WhatTheHack_retos/066-OpenAIFundamentals/Student/Challenge-00.html) de la guía para estudiantes de este reto para más detalles.
 
 ## `.env.sample`
 
-This is a sample `.env` file with the list of environment variables required by the Jupyter Notebooks for this hack. You should rename this file to `.env` and add your configuration values to it during the hack.
+Este es un archivo `.env` de muestra con la lista de variables de entorno requeridas por los Jupyter Notebooks para este reto. Debes renombrar este archivo a `.env` y añadir tus valores de configuración durante el reto.
 
 ## `.gitignore`
 
-This file has a list of files that Git should ignore and not commit to a Git repo if a student chooses to commit these files to a repo from their local workstation.
+Este archivo tiene una lista de archivos que Git debería ignorar y no comprometer en un repositorio Git si un estudiante decide comprometer estos archivos en un repositorio desde su estación de trabajo local.
 
-## `requirements.txt` 
+## `requirements.txt`
 
-This file is used for configuring Python libraries on your workstation.
+Este archivo se utiliza para configurar las bibliotecas de Python en tu estación de trabajo.
